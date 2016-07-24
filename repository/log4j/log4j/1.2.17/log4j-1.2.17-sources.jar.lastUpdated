@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Jul 24 16:07:19 CST 2016
+http\://central.maven.org/maven2/.error=Could not transfer artifact log4j\:log4j\:jar\:sources\:1.2.17 from/to Central (http\://central.maven.org/maven2)\: No response received after 60000
+default-http\://central.maven.org/maven2/.lastUpdated=1469347639608
