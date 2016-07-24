@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Jul 24 09:36:00 CST 2016
+http\://repo.maven.apache.org/maven2/.lastUpdated=1469322492933
+@default-Central-http\://repo1.maven.org/maven2/.lastUpdated=1469296346155
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.apache.maven\:maven\:pom\:2.0.6 from/to Central (http\://repo1.maven.org/maven2)\: GET request of\: org/apache/maven/maven/2.0.6/maven-2.0.6.pom from Central failed
+http\://central.maven.org/maven2/.lastUpdated=1469324160076

@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jul 24 10:39:48 CST 2016
+@default-apache.snapshots.https-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1469327968252
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.apache.httpcomponents\:project\:pom\:7 from/to apache.snapshots.https (https\://repository.apache.org/content/repositories/snapshots)\: sun.security.validator.ValidatorException\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
+http\://repository.jboss.org/nexus/content/groups/public/.error=
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1469327968648
+http\://central.maven.org/maven2/.lastUpdated=1469327988498

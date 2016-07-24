@@ -1,0 +1,11 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Jul 24 12:19:07 CST 2016
+http\://repository.jboss.com/maven2/.lastUpdated=1469333829891
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1469328212647
+http\://repository.jboss.com/maven2/.error=
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.mortbay.jetty\:jetty\:jar\:6.1.26 from/to apache.snapshots.https (https\://repository.apache.org/content/repositories/snapshots)\: sun.security.validator.ValidatorException\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
+@default-Central-http\://central.maven.org/maven2/.lastUpdated=1469328763712
+@default-apache.snapshots.https-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1469328197098
+http\://repo1.maven.org/maven2/.lastUpdated=1469333947014
+http\://central.maven.org/maven2/.error=Could not transfer artifact org.mortbay.jetty\:jetty\:jar\:6.1.26 from/to Central (http\://central.maven.org/maven2)\: GET request of\: org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.jar from Central failed
+http\://repository.jboss.org/nexus/content/groups/public/.error=

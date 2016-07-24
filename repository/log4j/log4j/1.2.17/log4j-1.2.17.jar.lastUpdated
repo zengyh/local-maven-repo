@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jul 24 08:47:45 CST 2016
+http\://repo1.maven.org/maven2/.lastUpdated=1469321265028
+@default-apache.snapshots.https-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1469296913440
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact log4j\:log4j\:jar\:1.2.17 from/to apache.snapshots.https (https\://repository.apache.org/content/repositories/snapshots)\: java.lang.SecurityException\: JCE cannot authenticate the provider SunJCE
+http\://repository.jboss.org/nexus/content/groups/public/.error=
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1469296914476

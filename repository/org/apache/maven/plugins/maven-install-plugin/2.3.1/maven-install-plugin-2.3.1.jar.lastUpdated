@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Jul 24 09:35:59 CST 2016
+default-http\://repo1.maven.org/maven2/.lastUpdated=1469291453648
+http\://repo.maven.apache.org/maven2/.lastUpdated=1469322487210
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-install-plugin\:jar\:2.3.1 from/to Central (http\://repo1.maven.org/maven2)\: No response received after 60000
+http\://central.maven.org/maven2/.lastUpdated=1469324159426

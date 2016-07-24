@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jul 24 10:52:43 CST 2016
+@default-Central-http\://central.maven.org/maven2/.lastUpdated=1469328763812
+@default-apache.snapshots.https-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1469328197183
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact com.sun.jersey.jersey-test-framework\:jersey-test-framework-grizzly2\:jar\:1.9 from/to apache.snapshots.https (https\://repository.apache.org/content/repositories/snapshots)\: sun.security.validator.ValidatorException\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
+http\://central.maven.org/maven2/.error=Could not transfer artifact com.sun.jersey.jersey-test-framework\:jersey-test-framework-grizzly2\:jar\:1.9 from/to Central (http\://central.maven.org/maven2)\: central.maven.org
+http\://repository.jboss.org/nexus/content/groups/public/.error=
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1469328212718
