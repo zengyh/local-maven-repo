@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Aug 27 20:07:11 CST 2016
+https\://repository.apache.org/content/repositories/snapshots/.error=
+http\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1472299629677
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1472299630151
+http\://central.maven.org/maven2/.lastUpdated=1472299631168
